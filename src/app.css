@@ -1,0 +1,14 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #2e2e2e; /* Un tono gris oscuro */
+    color: #d3d3d3; /* Un color de texto gris claro */
+    font-family: Roboto, Arial, sans-serif; /* Una fuente legible */
+}
+
